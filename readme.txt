@@ -8,6 +8,3 @@ Look for the variable MAX_TIMER_DURATION_MS
 Change 60 * 1000 to 10000 * 1000
 
 Save the changes and re-build your app.
-
-This worked for me.
-https://stackoverflow.com/a/46678121
